@@ -1,2 +1,3 @@
 # AWS_Cloud_Quest
-AWS_Cloud_Quest_Materials
+
+If your looking for the AWS practical knowledge do check out AWS cloud quest to get the practical experience without any cost.
